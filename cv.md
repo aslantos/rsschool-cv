@@ -21,11 +21,11 @@ function multiply(a, b){
 
 ## Work Experience
 
-No work experience
+* No work experience
 
 ## Education
 
-Learning in University of Almaty in Kazakhstan
+* Learning in University of Almaty in Kazakhstan
 
 ## English Level
 
