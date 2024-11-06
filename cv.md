@@ -21,7 +21,7 @@ function multiply(a, b){
 
 ## Work Experience
 
-For now no work experience
+No work experience
 
 ## Education
 
