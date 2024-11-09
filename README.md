@@ -1,1 +1,1 @@
-[# rsschool-cv](https://aslantos.github.io/rsschool-cv/index)
+[# rsschool-cv](https://aslantos.github.io/rsschool-cv/)
